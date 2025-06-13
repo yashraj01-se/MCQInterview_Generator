@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: MCQInterview_Generator
+Version: 0.0.1
+Author: Yashraj Sharma
+Author-email: yashsharma000098@gmail.com
+Requires-Dist: google-generativeai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
