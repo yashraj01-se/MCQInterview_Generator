@@ -1,0 +1,5 @@
+MCQ,Choices,Correct
+"Which algorithm is best suited for predicting the probability of a binary outcome, such as classifying an email as spam or not spam?",a: Linear Regression | b: Logistic Regression | c: K-Means Clustering | d: K-Nearest Neighbors,b
+Which of the following is NOT a type of neural network mentioned in the text?,a: Feedforward Neural Network | b: Support Vector Machine | c: Recurrent Neural Network | d: Convolutional Neural Network,b
+You need to analyze a time series dataset. Which deep learning model would be most appropriate?,a: Convolutional Neural Network (CNN) | b: Feedforward Neural Network | c: Recurrent Neural Network (RNN) | d: K-Means Clustering,c
+Which machine learning algorithm is used for grouping data points into clusters based on their similarity?,a: Linear Regression | b: Decision Trees | c: K-Means Clustering | d: Support Vector Machines,c
