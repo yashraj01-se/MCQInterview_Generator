@@ -67,7 +67,7 @@ with st.form("user_inputs"):
     subject=st.text_input("Insert Subject",max_chars=20)
 
     #Quiz Tone:
-    tone=st.text_input("Complexity level od Questions",max_chars=20,placeholder="Simple")
+    tone=st.text_input("Complexity level of Questions",max_chars=20,placeholder="Simple")
 
     #Add submit Button:
     button=st.form_submit_button("Create MCQs")
